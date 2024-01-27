@@ -37,11 +37,7 @@ This project was created only for good purposes and personal use
 Please be aware that your action has consequences
 Be careful using this tool, I am warning you to use this tool for Education Purpose Only.
 
-## Preview  <img src="https://cdn3.emoji.gg/emojis/1676-cameracat.png" width="30px"/>
-</h1>
-<p align="center">
-  <img src="https://media.discordapp.net/attachments/1187895252921630863/1192645214591008909/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f313037333233383833343437383835303130302f313037333835333835373234393039393739362f696d6167652e706e67.png?ex=65a9d469&is=65975f69&hm=419b13e76486de32917c1ef81f9afa707eba28d10dbcf9a4d08627d6aaf6eaf0&">
-</p>
+
 <p align="center">
   
 </p>
