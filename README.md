@@ -20,9 +20,11 @@
 
 <p align="center">
 
-```
+### Setup
 
-```
+1. [Download source code zip]
+2. Extract zip
+3. Run `setup.bat` To open the file
 </p>
 
 ## Payment Option <img src="https://cdn3.emoji.gg/emojis/9852-takemymoney.gif" width="30px"/>
@@ -57,7 +59,7 @@ Be careful using this tool, I am warning you to use this tool for Education Purp
 
 ```
  🔧 Automatic Installation -    Launch setup.bat
- 🔧 Manual Installation    -    pip install -r requirements.txt & python neptune.py
+ 🔧 Manual Installation    -    pip install -r requirements.txt & python main.py
 ```
 </p>
 
