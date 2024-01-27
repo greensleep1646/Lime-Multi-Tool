@@ -28,14 +28,6 @@
 3. Run `setup.bat` To open the file
 </p>
 
-## Payment Option <img src="https://cdn3.emoji.gg/emojis/9852-takemymoney.gif" width="30px"/>
-
-<img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/3712-bitcoin.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/4887-ltc.png" width="20px"/>     <img src="https://cdn3.emoji.gg/emojis/5819-eth.png" width="20px"/>    <img src="https://cdn3.emoji.gg/emojis/1306-paypal-logo.pnghttps://cdn3.emoji.gg/emojis/6168-giftcard.png" width="20px"/>
-
-⭐ Customer Review:
-   https://t.me/rdmovouch
-
-
 ## Disclaimer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
