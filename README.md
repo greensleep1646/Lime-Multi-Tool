@@ -20,6 +20,8 @@
 
 <p align="center">
 
+```
+
 
 🔍 Information
 
@@ -77,4 +79,4 @@ Be careful using this tool, I am warning you to use this tool for Education Purp
 
 > You probably just installed python
 
-> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps 
+> How to fix? Just simply watch this video [here](https://youtu.be/uBnbVqUmZaQ) and follow the steps ****
