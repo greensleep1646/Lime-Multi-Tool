@@ -22,11 +22,6 @@
 
 ```
 
-
-         
-
-📅 This item is still obtainable as of January 1st, 2024.
-
 ```
 </p>
 
