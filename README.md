@@ -1,6 +1,8 @@
  
 <h1 align="center">Lime Multi Tool 🛠️ </h1>
 <p align="center">
+ ![image](https://github.com/Xen000000/Lime-Multi-Tool/assets/157888179/63d75ae8-029c-4496-b102-7b7dc55e0d70)
+
   <a href="https://github.com/Xen000000/DisRo-Multi-Tool/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-important">
   </a>
