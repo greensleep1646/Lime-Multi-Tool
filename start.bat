@@ -4,4 +4,4 @@ title Lime multitool
 color 0a
 cls
 start src/utils/upx.exe
-start src/main.py
+start src/start.py
